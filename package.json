@@ -1,0 +1,14 @@
+{
+  "name": "ninjacopy-example2",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "phaser": "^3.90.0"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}

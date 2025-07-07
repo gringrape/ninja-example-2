@@ -1,0 +1,23 @@
+---
+description: Always Follow Workflow 
+globs:
+alwaysApply: true
+---
+
+## 🔒 Always Follow These Rules
+
+- Perform **only one checklist item at a time**.
+- Provide **brief explanations** — no more than one short paragraph per message.
+
+## ✅ Before Performing Any Task
+
+- **Check `checklist.md`** before starting.
+- Make sure you **clearly understand which task** is currently in progress.
+- **Do not write code** unless explicitly instructed by the user.
+- **State the expected outcome** before performing the task.
+- **Explain how the user can verify** the result after the task is done.
+
+## 🧾 After Performing a Task
+
+- Ask the user to **confirm the result** before proceeding.
+- Always **mark the current item as completed in `checklist.md`**.
